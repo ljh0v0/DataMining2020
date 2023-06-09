@@ -53,7 +53,7 @@ Name: class_label, dtype: int64
 
 ## 二、训练模型
 
-预训练模型代码
+预训练BERT-模型
 
-https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
+Refer：https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
 
